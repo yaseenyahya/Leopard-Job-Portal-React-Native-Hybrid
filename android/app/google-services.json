@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "64126832157",
+    "project_id": "leopards-76747",
+    "storage_bucket": "leopards-76747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64126832157:android:9b97d2d37b77137b7500f4",
+        "android_client_info": {
+          "package_name": "com.shr.reports.Leopards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64126832157-2ov6bd2dug0chhesp1t1tks70qams5vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shr.reports.Leopards",
+            "certificate_hash": "1814eedc8c7bfefb2ef700001aac07fedf404a97"
+          }
+        },
+        {
+          "client_id": "64126832157-f2ae38qu6jiursij5fjq3pe2rgi9r07d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZfWoj_4Yzpa-OFO_gGNRKXfGIghzGak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64126832157-f2ae38qu6jiursij5fjq3pe2rgi9r07d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
